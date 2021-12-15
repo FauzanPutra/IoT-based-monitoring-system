@@ -47,7 +47,8 @@ the following video shows our member setting up the system
 
 https://user-images.githubusercontent.com/75777945/146185044-b95c1844-e08c-448f-b2bb-68d58993d117.mp4
 
-
+To complete  the requirement of the milestone we used the pythonAnywhere , but we discover that by using another software known as Grafana .
+We decided to use this dashboard because grafana has a built in time series database system known as InfluxDB that can support our IoT monitoring System.
 
 
 ## Dashboard
