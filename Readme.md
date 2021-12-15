@@ -1,7 +1,9 @@
 # Team Members:<br />
+
 * M1 . Fauzan Mala Ekaputra A18KE0312 <br /> 
 * M2 . Raja Falih Ghufran A18KE0324 <br />
 * M3 . Mohammad Haizal Khan A17KE0317 <br />
+
 
 # Project Proposal
 
@@ -16,12 +18,14 @@ From the following case here are several problems to be solved :
 *  The procedures of sending the bills to the customer are very laborious and cumbersome. The readings cannot be taken if no one is available at the home.
 *  Traditional meter reading system does not provide any scope for the user to conserve energy and does it provide energy consumption predictions for the near future that enables the user to act in a more planned way.
 
+
 ## Purposed topic :
 to design and develop an IoT-based monitoring system for electricity consumption recording purposes.
 
 ## System architechture
 
 ![plot](architechture.PNG)
+
 
 ## Sensor
 
@@ -32,6 +36,7 @@ here are the sample video of the group member accesing the raspberry pi via VNC 
 
 
 https://user-images.githubusercontent.com/75777945/146175242-39d33112-e8b4-4d0f-9083-a4352e5d928c.mp4
+
 
 ## Cloud
 
