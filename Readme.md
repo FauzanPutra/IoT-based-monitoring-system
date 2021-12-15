@@ -20,7 +20,7 @@ From the following case here are several problems to be solved :
 
 
 ## Purposed topic :
-to design and develop an IoT-based monitoring system for electricity consumption recording purposes.
+to design and develop an *IoT-based monitoring system for electricity consumption recording purposes*.
 
 ## System architechture
 
@@ -39,6 +39,15 @@ https://user-images.githubusercontent.com/75777945/146175242-39d33112-e8b4-4d0f-
 
 
 ## Cloud
+
+For the cloud system we decided to use *pythonAnywhere* 
+
+the following video shows our member setting up the system 
+
+
+https://user-images.githubusercontent.com/75777945/146185044-b95c1844-e08c-448f-b2bb-68d58993d117.mp4
+
+
 
 
 ## Dashboard
