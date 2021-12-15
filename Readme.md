@@ -18,4 +18,19 @@ From the following case here are several problems to be solved :
 Purposed topic :
 to design and develop an IoT-based monitoring system for electricity consumption recording purposes.
 
-![plot](![plot](./directory_1/directory_2/.../directory_n/plot.png))
+System architechture
+
+![plot](architechture.PNG)
+
+Sensor
+
+we will be using rasperberry pi 
+
+here are the sample video of the group member accesing the raspberry pi via VNC viewer
+
+
+
+https://user-images.githubusercontent.com/75777945/146175242-39d33112-e8b4-4d0f-9083-a4352e5d928c.mp4
+
+
+
