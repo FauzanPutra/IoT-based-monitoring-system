@@ -46,7 +46,7 @@ visualization and analytics software that allows query and visualization of the 
 Beautiful representation of data can be formed in Grafana in various graphs and 
 visualizations.
 
-
+The following figure is the sample of the dashboard that is created via grafana
 
 ![dashboard](https://user-images.githubusercontent.com/75777945/146176717-f2588e67-6f8b-42d5-adfb-3afa7b351331.PNG)
 
