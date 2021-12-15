@@ -18,4 +18,4 @@ From the following case here are several problems to be solved :
 Purposed topic :
 to design and develop an IoT-based monitoring system for electricity consumption recording purposes.
 
-
+![plot](![plot](./directory_1/directory_2/.../directory_n/plot.png))
