@@ -61,13 +61,15 @@ visualization and analytics software that allows query and visualization of the 
 Beautiful representation of data can be formed in Grafana in various graphs and 
 visualizations.
 
-The following figure is the sample of the dashboard that is created via grafana
+The following figure is the purpose dashboard that is created via grafana
 
-![dashboard](https://user-images.githubusercontent.com/75777945/146176717-f2588e67-6f8b-42d5-adfb-3afa7b351331.PNG)
+
+![USAGE (RM)](https://user-images.githubusercontent.com/75777945/153744804-a03c15b1-2cec-46dc-a9cf-b518581cbd19.png)
 
 # How to Run The Code 
 
 ## Set up raspberry pi OS and enable VNC,  serial port and camera
+
 
 1.	Install Raspbian Buster (os for raspberry pi)
 Raspbian download link: https://www.raspberrypi.org/software/
@@ -81,6 +83,8 @@ VNC Viewer download link: https://www.realvnc.com/en/connect/download/viewer/
 8.	Enter the ip address to the vnc viewer
 
 ## Set up static ip  address for the raspberry pi
+
+
 
 1.  Check the router ip by typing sudo route -n in the terminal
 2.  In terminal, type sudo nano /etc/dhcpcd.conf
@@ -283,6 +287,10 @@ sudo mv ssd_alphanum_plus.traineddata /usr/share/tesseract-ocr/4.00/tessdata/
 Once everything is set up, run the program with 
 python main.py
 
+  
+#result : 
+![dashboard](https://user-images.githubusercontent.com/75777945/146176717-f2588e67-6f8b-42d5-adfb-3afa7b351331.PNG)
+!
  
 
 
